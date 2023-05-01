@@ -7,7 +7,7 @@ Project Sriyapai M.4 ::
 
 #### install library :
 
-```http
+```
  $ pip install tk
  $ pip install pysqlite3
  $ pip install sqlite
